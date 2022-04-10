@@ -2,6 +2,7 @@
   "name": "rcvp",
 	"displayName": "React Container View Pattern",
 	"publisher": "nikhilgupta58",
+	"icon": "images/icon.png",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {

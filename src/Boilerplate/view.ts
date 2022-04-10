@@ -5,7 +5,7 @@ import { use${name}Context } from "./utils/context";
 
 export default function ${name}View() {
     const { count } = use${name}Context();
-    return <p>${name} View and it's count is {count}</p>;
+    return <p>${name} View and count is {count}</p>;
 }    
 `
 }

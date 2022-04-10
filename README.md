@@ -9,10 +9,10 @@ A react pattern named Container/View is followed to achieve clean and readable c
 ## Features
 
 Inside this file, whole your jsx part will come, all your designing and code.
-![Sample.view](./images/context.png)
+![Sample.view](https://res.cloudinary.com/dhiu02sfh/image/upload/v1649590850/context_ei4qht.png)
 
 Here, all your logic (js logic) will come.
-![Sample.container](./images/container.png)
+![Sample.container](https://res.cloudinary.com/dhiu02sfh/image/upload/v1649590851/container_qasfkq.png)
 
 ## Requirements
 

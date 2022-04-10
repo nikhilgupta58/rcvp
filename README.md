@@ -8,9 +8,6 @@ A react pattern named Container/View is followed to achieve clean and readable c
 
 ## Features
 
-This will create a folder structure with boilerplate code.
-![folder structure](./images/structure.avif)
-
 Inside this file, whole your jsx part will come, all your designing and code.
 ![Sample.view](./images/context.png)
 
